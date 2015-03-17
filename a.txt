@@ -2,3 +2,5 @@ add some changes
 some other changes
 
 other changes
+
+a fourth line of text in my file
